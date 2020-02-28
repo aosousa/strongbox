@@ -1,3 +1,19 @@
+# MESW - CES 19/20
+
+Group C:
+* André Sousa (201902618)
+* Bruno Nascimento (201800049)
+* Rafael Lima Joia (201902822)
+
+Strongbox is an open source artifact repository manager to host and manage artifacts in various popular formats such as Maven and NPM. The project is very much alive, judging by the state of the repository and moderation of issues, frequency of updates, and the active community in their chat. There are a lot of open issues (185 as of writing this), the majority of them with fantastic labelling regarding difficulty and appropriateness for first time contributors to open source projects, as well as over a thousand pull requests since the project was created. It is split into two main components:
+	
+ * Strongbox service (https://github.com/strongbox/strongbox) - the service that provides the REST API used by the web interface. This component is written in Java (Spring Boot), and is supported in Windows, Linux, and MacOS.
+ 
+ * Strongbox web interface (https://github.com/strongbox/strongbox-web-ui) - web UI module for the artifact repository manager above. Issues for this component are also reported in the Strongbox service component. Written using the Angular framework (version 8) with 
+TypeScript as the primary language.
+
+The project is in a development phase, with a good amount of issues to address.
+
 # ![strongbox-logo][strongbox-logo]
 
 [![Master Build Status][master-build-status-badge]][master-build-status-link]
