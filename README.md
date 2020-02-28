@@ -14,6 +14,8 @@ TypeScript as the primary language.
 
 The project is in a development phase, with a good amount of issues to address.
 
+---
+
 # ![strongbox-logo][strongbox-logo]
 
 [![Master Build Status][master-build-status-badge]][master-build-status-link]
